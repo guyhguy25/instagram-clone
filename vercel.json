@@ -7,3 +7,9 @@
     { "src": "/p/", "dest": "/" }
   ]
 }
+
+{
+    "rewrites":  [
+      {"source": "/(.*)", "destination": "/"}
+    ]
+}
