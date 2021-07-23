@@ -1,7 +1,5 @@
 # Instagram Clone!
 
-Live View [here]()
-
 ## React JS
 
 ## Plan
