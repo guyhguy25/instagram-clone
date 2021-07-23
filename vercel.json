@@ -1,15 +1,4 @@
-{
-  "routes": [
-    { "src": "/Register", "dest": "/" },
-    { "src": "/Login", "dest": "/" }
-    { "src": "/direct/inbox", "dest": "/" }
-    { "src": "/Christopher", "dest": "/" },
-    { "src": "/p/", "dest": "/" }
-  ]
-}
 
 {
-    "rewrites":  [
-      {"source": "/(.*)", "destination": "/"}
-    ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
 }
